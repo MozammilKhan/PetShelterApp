@@ -1,7 +1,8 @@
 Pets App
 ===================================
 
-This app displays a list of pets and their related data that the user inputs.
+Displays a list of pets and their related data that the user inputs, created using content provider, loaded the data with a cursor loader and stored with SQLite.
+
 
 Pre-requisites
 --------------
